@@ -1,0 +1,25 @@
+*{
+    background-color: rgb(192, 190, 190);
+    color: #222;
+    font-weight: bold;
+}
+
+h1{
+    
+    
+}
+
+fieldset{
+    text-align: center;
+    align-items: centre;
+}
+
+form{
+   border: none;
+}
+
+.space{
+    
+    font-size: 20px;
+    
+}
